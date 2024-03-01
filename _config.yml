@@ -13,14 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
+title: YangTris
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
+#twitter_username: username
+github_username: YangTris
 minimal_mistakes_skin: default
 search: true
 
@@ -58,34 +58,44 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Duong Van Tri"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "I am a self-disciplined and hardworking student seeking a workplace to contribute to company, to learn and to grow as a professional. Dedicated and committed to working hard and further the mission of company."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://www.facebook.com/vantri911/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/YangTris"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://github.com/YangTris"
+    - label: "Email"
+      icon: "fab fa-fw fa-email"
+      url: "mailto:id.dvantri911@gmail.com"
+      
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      url: "https://twitter.com/"      
+#    - label: "Instagram"
+#      icon: "fab fa-fw fa-instagram"
+#      url: "https://instagram.com/"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "Facebook"
+      icon: "fas fa-fw fa-facebook"
+      url: "https://www.facebook.com/vantri911/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/YangTris"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://github.com/YangTris"
+    - label: "Email"
+      icon: "fab fa-fw fa-email"
+      url: "mailto:id.dvantri911@gmail.com"
 
 defaults:
   # _posts
