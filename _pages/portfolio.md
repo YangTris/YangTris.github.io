@@ -38,6 +38,13 @@ Databases: SQL Server
 • Learned how to use Design Pattern in conjunction with SOLID principles
 • Solved problems relating to asynchronous tasks
 
+|**Description project**|                |
+|---------------------|----------------|
+| **Technologies used** |                |
+| **Team size**         | . jbb jbj  jhb |
+| **Responsibility**      |                |
+| **Github**              |                |
+
 [University Admission HCMUE](https://github.com/maivudhsp/DKTS_SDH)  | C#, HTML/CSS, JavaScript, .Net Framework, Git, Visual Studio Aug. 2023
 • Domain name: qldtsdh.hcmue.edu.vn/tuyensinh
 • Developed a website for student enroll to Ho Chi Minh City University of Education
