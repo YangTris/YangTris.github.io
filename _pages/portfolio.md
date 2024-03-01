@@ -41,7 +41,7 @@ Databases: SQL Server
 |**Description project**|                |
 |---------------------|----------------|
 | **Technologies used** |                |
-| **Team size**         | . jbb jbj  jhb |
+| **Team size**         | . jbb <br> jbj <br> jhb |
 | **Responsibility**      |                |
 | **Github**              |                |
 
