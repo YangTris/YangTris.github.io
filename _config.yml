@@ -72,7 +72,7 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://github.com/YangTris"
     - label: "Email"
-      icon: "fab fa-fw fa-email"
+      icon: "fas fa-fw fa-envelope-square"
       url: "mailto:id.dvantri911@gmail.com"
       
 #    - label: "Twitter"
