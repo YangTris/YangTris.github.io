@@ -44,7 +44,7 @@ Databases: SQL Server
 | **Time start - Time end**         |  Feb 2024 - Present |
 | **Responsibility**      | • Format follow clean code architecture  <br> • Call to Firebase API <br> • Authentication <br> • Hosting <br> • CRUD API |
 | **Learning from project** | • Learned how to use Kolin in conjunction with backend databases and APIs <br> • Learned how to use Design Pattern in conjunction with SOLID principles <br> • Solved problems relating to asynchronous tasks |
-| **Github**              |        https://github.com/YangTris/Order-App        |
+| **Github**              |        [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/YangTris/Order-App)        |
 | **Domain name**              |        Update later        |
 
 
@@ -57,7 +57,7 @@ Databases: SQL Server
 | **Time start - Time end**         |  Aug. 2023 - Oct. 2023 |
 | **Responsibility**      | •  |
 | **Learning from project** | • Loaded data for a large number of students to enroll <br> • Created a secure ASP.NET Web Forms with user registration, email confirmation and password reset <br> • Solved problems relating to asynchronous tasks |
-| **Github**              |        https://github.com/maivudhsp/DKTS_SDH        |
+| **Github**              |        [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/maivudhsp/DKTS_SDH)        |
 | **Domain name**              |        https://qldtsdh.hcmue.edu.vn/tuyensinh        |
 
 
@@ -70,5 +70,5 @@ Databases: SQL Server
 | **Time start - Time end**         |  May 2023 - Jul.2023 |
 | **Responsibility**      | •  |
 | **Learning from project** | • Organize MVC architecture <br> • Solved problems relating to asynchronous tasks |
-| **Github**              |        https://github.com/YangTris/Order-App        |
+| **Github**              |        [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/YangTris/Order-App)        |
 | **IP port**              |        113.161.86.105:8181        |
