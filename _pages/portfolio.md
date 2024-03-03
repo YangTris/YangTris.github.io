@@ -1,5 +1,5 @@
 ---
-permalink: /portfolio/
+permalink: /
 title: "Portfolio"
 toc: true
 toc_label: "Table of Contents"
