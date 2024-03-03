@@ -32,27 +32,40 @@ Operating Systems: Linux
 Databases: SQL Server
 
 ### Projects
-[Order App](https://github.com/YangTris/Order-App) | Kotlin, Java, APIs (Firebase, Google Maps), Git, VS Code Feb 2024 - Present
-• Developed an Android mobile app to provide food order & support digital payment
-• Learned how to use Kolin in conjunction with backend databases and APIs
-• Learned how to use Design Pattern in conjunction with SOLID principles
-• Solved problems relating to asynchronous tasks
+[Order App](https://github.com/YangTris/Order-App) 
 
-|**Description project**|                |
+|**Description project**|  Order App is the ultimate tool for efficient order management. With a sleek interface and real-time updates, businesses caneffortlessly handle orders, track inventory, and analyze customer preferences |
 |---------------------|----------------|
-| **Technologies used** |                |
-| **Team size**         | . jbb <br> jbj <br> jhb |
-| **Responsibility**      |                |
-| **Github**              |                |
+| **Technologies used** | Kotlin, Java, APIs (Firebase, Google Maps), Git, VS Code |
+| **Team size**         |  4 members |
+| **Time start - Time end**         |  Feb 2024 - Present |
+| **Responsibility**      | • Format follow clean code architecture  <br> • Call to Firebase API <br> • Authentication <br> • Hosting <br> • CRUD API |
+| **Learning from project** | • Learned how to use Kolin in conjunction with backend databases and APIs <br> • Learned how to use Design Pattern in conjunction with SOLID principles <br> • Solved problems relating to asynchronous tasks |
+| **Github**              |        https://github.com/YangTris/Order-App        |
+| **Domain name**              |        Update later        |
 
-[University Admission HCMUE](https://github.com/maivudhsp/DKTS_SDH)  | C#, HTML/CSS, JavaScript, .Net Framework, Git, Visual Studio Aug. 2023
-• Domain name: qldtsdh.hcmue.edu.vn/tuyensinh
-• Developed a website for student enroll to Ho Chi Minh City University of Education
-• Created a secure ASP.NET Web Forms with user registration, email confirmation and password reset
-• Loaded data for a large number of students to enroll
-• Solved problems relating to asynchronous tasks
 
-[Oral Literature HCMUE](https://github.com/maivudhsp/TNVHDG)  | C#, HTML/CSS, JavaScript, JQuery, .Net Framework, Git, Visual Studio May 2023
-• Developed a website for the Department of Literature for use in education
-• Builded with MVC architecture
-• Solved problems relating to asynchronous tasks
+[University Admission HCMUE](https://github.com/maivudhsp/DKTS_SDH) 
+
+|**Description project**|  Developed a website for student enroll to Ho Chi Minh City University of Education |
+|---------------------|----------------|
+| **Technologies used** | C#, HTML/CSS, JavaScript, .Net Framework, Git, Visual Studio |
+| **Team size**         |  3 members |
+| **Time start - Time end**         |  Aug. 2023 - Oct. 2023 |
+| **Responsibility**      | •  |
+| **Learning from project** | • Loaded data for a large number of students to enroll <br> • Created a secure ASP.NET Web Forms with user registration, email confirmation and password reset <br> • Solved problems relating to asynchronous tasks |
+| **Github**              |        https://github.com/maivudhsp/DKTS_SDH        |
+| **Domain name**              |        https://qldtsdh.hcmue.edu.vn/tuyensinh        |
+
+
+[Oral Literature HCMUE](https://github.com/maivudhsp/TNVHDG)  
+
+|**Description project**|  A scientific research cooperate with HCMUE student to conserve and develope VietNamese language  |
+|---------------------|----------------|
+| **Technologies used** | C#, HTML/CSS, JavaScript, JQuery, .Net Framework, Git, Visual Studio |
+| **Team size**         |  3 members |
+| **Time start - Time end**         |  May 2023 - Jul.2023 |
+| **Responsibility**      | •  |
+| **Learning from project** | • Organize MVC architecture <br> • Solved problems relating to asynchronous tasks |
+| **Github**              |        https://github.com/YangTris/Order-App        |
+| **IP port**              |        113.161.86.105:8181        |
