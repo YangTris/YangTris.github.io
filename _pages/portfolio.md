@@ -27,14 +27,17 @@ grow as a professional. Dedicated and committed to working hard and further the 
 | *Software Engineer*  |   Current GPA: 2.93/4.0 |
 
 ### Coursework
-Courses: Object-Oriented Programming, Data Structures & Algorithms, Probability & Statistics, User
-Interface Design, MVC (Model-View-Controller) Architecture.
+Courses: Object-Oriented Programming, Data Structures & Algorithms, Probability & Statistics, User Interface Design, MVC (Model-View-Controller) Architecture.
 
 ### Skills
 Languages: C/C++, C# ,Dart, Python, Java, JavaScript, HTML/CSS
+
 Tools: Git/GitHub, Unix Shell, VS Code, IntelliJ, Figma
+
 Frameworks: React, Flutter, Jetpack compose, .Net Framework
+
 Operating Systems: Linux
+
 Databases: SQL Server
 
 ### Projects
