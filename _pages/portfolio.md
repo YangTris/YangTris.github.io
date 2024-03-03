@@ -5,6 +5,9 @@ toc: true
 toc_label: "Table of Contents"
 toc_icon: "bookmark"
 ---
+
+*Updated: 03/03/2024*
+
 ### Profile
 I am a self-disciplined and hardworking student seeking a workplace to contribute to company, to learn and to
 grow as a professional. Dedicated and committed to working hard and further the mission of company
