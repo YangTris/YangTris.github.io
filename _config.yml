@@ -27,7 +27,7 @@ breadcrumbs: true
 title                    : "YangTris" # "Site Title"
 title_separator          : "-"
 description              : "YangTris's Portfolio"
-baseurl                  : "/portfolio"
+#baseurl                  : "/portfolio"
 
 
 # Build settings
