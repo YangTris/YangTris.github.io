@@ -1,7 +1,7 @@
 main:
   - title: "Portfolio"
     url: /
-  - title: "CV"
+  - title: "Resume"
     url: /assets/images/DuongVanTri_CV.pdf  
   - title: "Posts"
     url: /posts/
