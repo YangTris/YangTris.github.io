@@ -23,6 +23,12 @@ description: >- # this means to ignore newlines until "baseurl:"
 github_username: YangTris
 minimal_mistakes_skin: default
 search: true
+breadcrumbs: true
+title                    : "YangTris" # "Site Title"
+title_separator          : "-"
+description              : "YangTris's Portfolio"
+baseurl                  : "/portfolio"
+
 
 # Build settings
 markdown: kramdown
@@ -94,7 +100,7 @@ footer:
       icon: "fab fa-fw fa-linkedin"
       url: "https://github.com/YangTris"
     - label: "Email"
-      icon: "fab fa-fw fa-email"
+      icon: "fas fa-fw fa-envelope-square"
       url: "mailto:id.dvantri911@gmail.com"
 
 defaults:
