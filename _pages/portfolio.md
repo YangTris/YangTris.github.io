@@ -16,12 +16,6 @@ toc_icon: "bookmark"
 
 • Enhancing English communication in the next 1-2 years
 
-### Education
- 
-
-| *Sai Gon University* | August 2020 - Present |
-|---------------------|----------------|
-| *Software Engineer*  |   Current GPA: 2.93/4.0 |
 
 ### Coursework
 Courses: Object-Oriented Programming, Data Structures & Algorithms, Probability & Statistics, User Interface Design, MVC (Model-View-Controller) Architecture.
