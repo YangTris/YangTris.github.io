@@ -29,7 +29,7 @@ Frameworks: React, Flutter, Jetpack compose, .Net Framework
 
 Operating Systems: Linux
 
-Databases: SQL Server
+Databases: SQL Server, Firebase
 
 ### Projects
 [Order App](https://github.com/YangTris/Order-App) 
