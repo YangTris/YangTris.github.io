@@ -37,7 +37,7 @@ Databases: SQL Server, Firebase
 |**Description project**|  Order App is the ultimate tool for efficient order management. With a sleek interface and real-time updates, businesses caneffortlessly handle orders, track inventory, and analyze customer preferences |
 |---------------------|----------------|
 | **Technologies used** | Kotlin, Java, APIs (Firebase, Google Maps), Git, VS Code |
-| **Team size**         |  4 members |
+| **Team size**         |  2 members |
 | **Time start - Time end**         |  Feb 2024 - Present |
 | **Responsibility**      | • Format follow clean code architecture  <br> • Call to Firebase API <br> • Authentication <br> • Hosting <br> • CRUD API |
 | **Learning from project** | • Learned how to use Kolin in conjunction with backend databases and APIs <br> • Learned how to use Design Pattern in conjunction with SOLID principles <br> • Solved problems relating to asynchronous tasks |
