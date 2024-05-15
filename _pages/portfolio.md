@@ -32,7 +32,7 @@ Operating Systems: Linux
 Databases: SQL Server, Firebase
 
 ### Projects
-[Order App](https://github.com/YangTris/Java-Food-Ordering-App) 
+[Food Ordering App](https://github.com/YangTris/Java-Food-Ordering-App) 
 
 |**Description project**| Food Ordering App: Your go-to solution for efficient order management and seamless food ordering. With its sleek interface and real-time updates, businesses can effortlessly handle orders and track their progress.|
 |---------------------|----------------|
