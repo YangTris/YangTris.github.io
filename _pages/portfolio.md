@@ -21,7 +21,7 @@ toc_icon: "bookmark"
 Courses: Object-Oriented Programming, Data Structures & Algorithms, Probability & Statistics, User Interface Design, MVC (Model-View-Controller) Architecture.
 
 ### Skills
-Languages: C/C++, C# ,Dart, Python, Java, JavaScript, HTML/CSS
+Languages: C/C++, C# ,Dart, Python, Java, JavaScript
 
 Tools: Git/GitHub, Unix Shell, VS Code, IntelliJ, Figma
 
@@ -32,27 +32,27 @@ Operating Systems: Linux
 Databases: SQL Server, Firebase
 
 ### Projects
-[Order App](https://github.com/YangTris/Order-App) 
+[Order App](https://github.com/YangTris/Java-Food-Ordering-App) 
 
-|**Description project**|  Order App is the ultimate tool for efficient order management. With a sleek interface and real-time updates, businesses caneffortlessly handle orders, track inventory, and analyze customer preferences |
+|**Description project**| Food Ordering App: Your go-to solution for efficient order management and seamless food ordering. With its sleek interface and real-time updates, businesses can effortlessly handle orders and track their progress.|
 |---------------------|----------------|
-| **Technologies used** | Kotlin, Java, APIs (Firebase, Google Maps), Git, VS Code |
-| **Team size**         |  2 members |
+| **Technologies used** | Java, APIs (Firebase, Google Maps), Git, VS Code |
+| **Team size**         |  3 members |
 | **Time start - Time end**         |  Feb 2024 - Present |
-| **Responsibility**      | • Format follow clean code architecture  <br> • Call to Firebase API <br> • Authentication <br> • Hosting <br> • CRUD API |
-| **Learning from project** | • Learned how to use Kolin in conjunction with backend databases and APIs <br> • Learned how to use Design Pattern in conjunction with SOLID principles <br> • Solved problems relating to asynchronous tasks |
+| **Responsibility**      | • Payment with VnPay  <br> • Call to Firebase API <br> • Authentication <br> • Cloud Messaging <br> • CRUD API |
+| **Learning from project** | • Learned how to use Java in conjunction with backend databases and APIs <br> • Solved problems relating to asynchronous tasks |
 | **Github**              |        [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/YangTris/Order-App)        |
-| **Domain name**              |        Update later        |
+
 
 
 [University Admission HCMUE](https://github.com/maivudhsp/DKTS_SDH) 
 
-|**Description project**|  Developed a website for student enroll to Ho Chi Minh City University of Education |
+|**Description project**|  Ho Chi Minh City University of Education (HCMUE) offers a user-friendly website for student enrollment. The platform make streamlines the enrollment process |
 |---------------------|----------------|
 | **Technologies used** | C#, HTML/CSS, JavaScript, .Net Framework, Git, Visual Studio |
 | **Team size**         |  3 members |
 | **Time start - Time end**         |  Aug. 2023 - Oct. 2023 |
-| **Responsibility**      | •  |
+| **Responsibility**      | • Search, Sort, Filter <br> • Pagination <br> • CRUD Admin API |
 | **Learning from project** | • Loaded data for a large number of students to enroll <br> • Created a secure ASP.NET Web Forms with user registration, email confirmation and password reset <br> • Solved problems relating to asynchronous tasks |
 | **Github**              |        [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/maivudhsp/DKTS_SDH)        |
 | **Domain name**              |        [https://qldtsdh.hcmue.edu.vn/tuyensinh](https://qldtsdh.hcmue.edu.vn/tuyensinh)        |
@@ -65,7 +65,6 @@ Databases: SQL Server, Firebase
 | **Technologies used** | C#, HTML/CSS, JavaScript, JQuery, .Net Framework, Git, Visual Studio |
 | **Team size**         |  3 members |
 | **Time start - Time end**         |  May 2023 - Jul.2023 |
-| **Responsibility**      | •  |
+| **Responsibility**      | • Search, Sort, Filter <br> • Pagination <br> • CRUD Admin API|
 | **Learning from project** | • Organize MVC architecture <br> • Solved problems relating to asynchronous tasks |
 | **Github**              |        [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/YangTris/Order-App)        |
-| **IP port**              |        113.161.86.105:8181        |
