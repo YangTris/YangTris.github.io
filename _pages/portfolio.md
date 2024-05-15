@@ -39,9 +39,9 @@ Databases: SQL Server, Firebase
 | **Technologies used** | Java, APIs (Firebase, Google Maps), Git, VS Code |
 | **Team size**         |  3 members |
 | **Time start - Time end**         |  Feb 2024 - Present |
-| **Responsibility**      | • Payment with VnPay  <br> • Call to Firebase API <br> • Authentication <br> • Cloud Messaging <br> • CRUD API |
-| **Learning from project** | • Learned how to use Java in conjunction with backend databases and APIs <br> • Solved problems relating to asynchronous tasks |
-| **Github**              |        [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/YangTris/Order-App)        |
+| **My responsibility**      | • Payment with VnPay  <br> • Call to Firebase API <br> • Authentication <br> • Cloud Messaging <br> • CRUD API |
+| **Learning from project** | • Learned how to use Java in conjunction with backend databases and APIs <br> • Integrated E-wallets API <br> • Integrated Google Maps API  |
+| **Github**              |        [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.tcom/YangTris/Order-App)        |
 
 
 
@@ -52,19 +52,19 @@ Databases: SQL Server, Firebase
 | **Technologies used** | C#, HTML/CSS, JavaScript, .Net Framework, Git, Visual Studio |
 | **Team size**         |  3 members |
 | **Time start - Time end**         |  Aug. 2023 - Oct. 2023 |
-| **Responsibility**      | • Search, Sort, Filter <br> • Pagination <br> • CRUD Admin API |
-| **Learning from project** | • Loaded data for a large number of students to enroll <br> • Created a secure ASP.NET Web Forms with user registration, email confirmation and password reset <br> • Solved problems relating to asynchronous tasks |
+| **My responsibility**      | • Register account <br> • Print information as file PDF|
+| **Learning from project** | • Run with a large number of users <br> • Secure data with email confirmation <br> • Solved problems relating to asynchronous tasks |
 | **Github**              |        [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/maivudhsp/DKTS_SDH)        |
 | **Domain name**              |        [https://qldtsdh.hcmue.edu.vn/tuyensinh](https://qldtsdh.hcmue.edu.vn/tuyensinh)        |
 
 
 [Oral Literature HCMUE](https://github.com/maivudhsp/TNVHDG)  
 
-|**Description project**|  A scientific research cooperate with HCMUE student to conserve and develope VietNamese language  |
+|**Description project**|  A collaborative scientific research project with students from HCMUE aims to preserve and enhance the Vietnamese language. |
 |---------------------|----------------|
 | **Technologies used** | C#, HTML/CSS, JavaScript, JQuery, .Net Framework, Git, Visual Studio |
 | **Team size**         |  3 members |
 | **Time start - Time end**         |  May 2023 - Jul.2023 |
-| **Responsibility**      | • Search, Sort, Filter <br> • Pagination <br> • CRUD Admin API|
+| **My responsibility**      | • Search, Sort, Filter <br> • Pagination <br> • CRUD Admin API|
 | **Learning from project** | • Organize MVC architecture <br> • Solved problems relating to asynchronous tasks |
 | **Github**              |        [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/YangTris/Order-App)        |
