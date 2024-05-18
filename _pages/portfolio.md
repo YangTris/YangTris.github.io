@@ -39,8 +39,8 @@ Databases: SQL Server, Firebase
 | **Technologies used** | Java, APIs (Firebase, Google Maps), Git, VS Code |
 | **Team size**         |  3 members |
 | **Time start - Time end**         |  Feb 2024 - Present |
-| **My responsibility**      | • Payment with VnPay  <br> • Call to Firebase API <br> • Authentication <br> • Cloud Messaging <br> • CRUD API |
-| **Learning from project** | • Learned how to use Java in conjunction with backend databases and APIs <br> • Integrated E-wallets API <br> • Integrated Google Maps API  |
+| **My responsibility**      | • Payment with VnPay  <br> • Rest API with Cloud Firestore <br> • Authentication <br> • Cloud Messaging <br> |
+| **Learning from project** | • Learned how to use Java in conjunction with backend databases and APIs <br> • Working with server side (JSON, REST API) <br> • Integrating third-party libraries (Firebase Notification, Facebook Sdk, Google Maps, ...)  |
 | **Github**              |        [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.tcom/YangTris/Order-App)        |
 
 
