@@ -38,6 +38,7 @@ Databases: SQL Server, Firebase
 |---------------------|----------------|
 | **Technologies used** | Java, APIs (Firebase, Google Maps), Git, VS Code |
 | **Team size**         |  3 members |
+| **Position**         |   BackEnd Developer |
 | **Time start - Time end**         |  Feb 2024 - Present |
 | **My responsibility**      | • Payment with VnPay  <br> • Rest API with Cloud Firestore <br> • Authentication <br> • Cloud Messaging <br> |
 | **Learning from project** | • Learned how to use Java in conjunction with backend databases and APIs <br> • Working with server side (JSON, REST API) <br> • Integrating third-party libraries (Firebase Notification, Facebook Sdk, Google Maps, ...)  |
@@ -51,6 +52,7 @@ Databases: SQL Server, Firebase
 |---------------------|----------------|
 | **Technologies used** | C#, HTML/CSS, JavaScript, .Net Framework, Git, Visual Studio |
 | **Team size**         |  3 members |
+| **Position**         |   BackEnd Developer |
 | **Time start - Time end**         |  Aug. 2023 - Oct. 2023 |
 | **My responsibility**      | • Register account <br> • Print information as file PDF|
 | **Learning from project** | • Run with a large number of users <br> • Secure data with email confirmation <br> • Solved problems relating to asynchronous tasks |
@@ -64,6 +66,7 @@ Databases: SQL Server, Firebase
 |---------------------|----------------|
 | **Technologies used** | C#, HTML/CSS, JavaScript, JQuery, .Net Framework, Git, Visual Studio |
 | **Team size**         |  3 members |
+| **Position**         |   BackEnd Developer |
 | **Time start - Time end**         |  May 2023 - Jul.2023 |
 | **My responsibility**      | • Search, Sort, Filter <br> • Pagination <br> • CRUD Admin API|
 | **Learning from project** | • Organize MVC architecture <br> • Solved problems relating to asynchronous tasks |
