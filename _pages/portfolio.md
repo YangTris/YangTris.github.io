@@ -36,12 +36,12 @@ Databases: SQL Server, Firebase
 
 |**Description project**| Food Ordering App: Your go-to solution for efficient order management and seamless food ordering. With its sleek interface and real-time updates, businesses can effortlessly handle orders and track their progress.|
 |---------------------|----------------|
-| **Technologies used** | Java, APIs (Firebase, Google Maps), Git, VS Code |
+| **Technologies used** | Java, Firebase, Google Maps API, Git, VS Code |
 | **Team size**         |  3 members |
 | **Position**         |   BackEnd Developer |
 | **Time start - Time end**         |  Feb 2024 - Present |
-| **My responsibility**      | • Payment with VnPay  <br> • Rest API with Cloud Firestore <br> • Authentication <br> • Cloud Messaging <br> |
-| **Learning from project** | • Learned how to use Java in conjunction with backend databases and APIs <br> • Working with server side (JSON, REST API) <br> • Integrating third-party libraries (Firebase Notification, Facebook Sdk, Google Maps, ...)  |
+| **My responsibility**      | • Payment with VnPay  <br> • Rest API with Cloud Firestore <br> • Multi-factor Authentication <br> • Cloud Messaging <br> |
+| **Learning from project** | • Learned how to use Java in conjunction with Cloud Firestore database and APIs <br> • Working with server side (JSON, REST API) <br> • Integrating third-party libraries (Firebase Notification, Facebook Sdk, Google Maps, ...)  |
 | **Github**              |        [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.tcom/YangTris/Order-App)        |
 
 
@@ -55,7 +55,7 @@ Databases: SQL Server, Firebase
 | **Position**         |   BackEnd Developer |
 | **Time start - Time end**         |  Aug. 2023 - Oct. 2023 |
 | **My responsibility**      | • Register account <br> • Print information as file PDF|
-| **Learning from project** | • Run with a large number of users <br> • Secure data with email confirmation <br> • Solved problems relating to asynchronous tasks |
+| **Learning from project** | • Run with a large number of users <br> • Using MFA to secure data <br> • Solved problems relating to asynchronous tasks |
 | **Domain name**              |        [https://qldtsdh.hcmue.edu.vn/tuyensinh](https://qldtsdh.hcmue.edu.vn/tuyensinh)        |
 | **Github**              |        [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/maivudhsp/DKTS_SDH)        |
 
