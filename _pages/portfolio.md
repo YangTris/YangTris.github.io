@@ -40,7 +40,7 @@ Databases: SQL Server, Firebase
 | **Team size**         |  3 members |
 | **Position**         |   BackEnd Developer |
 | **Time start - Time end**         |  Feb 2024 - Present |
-| **My responsibility**      | • Payment with VnPay  <br> • Rest API with Cloud Firestore <br> • Multi-factor Authentication <br> • Cloud Messaging <br> |
+| **Responsibility**      | • Payment with VnPay  <br> • Rest API with Cloud Firestore <br> • Multi-factor Authentication <br> • Cloud Messaging <br> |
 | **Learning from project** | • Learned how to use Java in conjunction with Cloud Firestore database and APIs <br> • Working with server side (JSON, REST API) <br> • Integrating third-party libraries (Firebase Notification, Facebook Sdk, Google Maps, ...)  |
 | **Github**              |        [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.tcom/YangTris/Order-App)        |
 
@@ -54,7 +54,7 @@ Databases: SQL Server, Firebase
 | **Team size**         |  3 members |
 | **Position**         |   BackEnd Developer |
 | **Time start - Time end**         |  Aug. 2023 - Oct. 2023 |
-| **My responsibility**      | • Register account <br> • Print information as file PDF|
+| **Responsibility**      | • Register account <br> • Print information as file PDF|
 | **Learning from project** | • Run with a large number of users <br> • Using MFA to secure data <br> • Solved problems relating to asynchronous tasks |
 | **Domain name**              |        [https://qldtsdh.hcmue.edu.vn/tuyensinh](https://qldtsdh.hcmue.edu.vn/tuyensinh)        |
 | **Github**              |        [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/maivudhsp/DKTS_SDH)        |
@@ -68,6 +68,6 @@ Databases: SQL Server, Firebase
 | **Team size**         |  3 members |
 | **Position**         |   BackEnd Developer |
 | **Time start - Time end**         |  May 2023 - Jul.2023 |
-| **My responsibility**      | • Search, Sort, Filter <br> • Pagination <br> • CRUD Admin API|
+| **Responsibility**      | • Search, Sort, Filter <br> • Pagination <br> • CRUD Admin API|
 | **Learning from project** | • Organize MVC architecture <br> • Solved problems relating to asynchronous tasks |
 | **Github**              |        [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/YangTris/Order-App)        |
