@@ -13,20 +13,20 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: YangTris
+title: Dương Văn Trí
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 #twitter_username: username
-github_username: YangTris
+github_username: Dương Văn Trí
 minimal_mistakes_skin: default
 search: true
 breadcrumbs: true
-title                    : "YangTris" # "Site Title"
+title                    : "Dương Văn Trí" # "Site Title"
 title_separator          : "-"
-description              : "YangTris's Portfolio"
+description              : "Dương Văn Trí Portfolio"
 #baseurl                  : "/portfolio"
 
 
