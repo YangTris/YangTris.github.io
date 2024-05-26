@@ -21,15 +21,18 @@ toc_icon: "bookmark"
 Courses: Object-Oriented Programming, Data Structures & Algorithms, Probability & Statistics, User Interface Design, MVC (Model-View-Controller) Architecture.
 
 ### Skills
-Languages: C/C++, C# ,Dart, Python, Java, JavaScript
+Languages: C/C++, C#, Dart, Python, Java, JavaScript
 
 Tools: Git/GitHub, Unix Shell, VS Code, IntelliJ, Figma
 
-Frameworks: React, Flutter, Jetpack compose, .Net Framework
+Frameworks: React, Flutter, Material Design, Bootstrap,  .Net Framework, ASP .Net Core, Spring boot 
 
-Operating Systems: Linux
+Operating Systems: Linux 
 
 Databases: SQL Server, Firebase
+
+### Soft skills
+Tasks manager: Notion, Microsoft project
 
 ### Projects
 [Food Ordering App](https://github.com/YangTris/Java-Food-Ordering-App) 
@@ -40,7 +43,7 @@ Databases: SQL Server, Firebase
 | **Team size**         |  3 members |
 | **Position**         |   BackEnd Developer |
 | **Time start - Time end**         |  Feb 2024 - Present |
-| **Responsibility**      | • Payment with VnPay  <br> • Rest API with Cloud Firestore <br> • Multi-factor Authentication <br> • Cloud Messaging <br> |
+| **Responsibility**      | • Payment with VnPay  <br> • Rest APIs with Cloud Firestore <br> • Multi-factor Authentication <br> • Sending message by using FCM <br> |
 | **Learning from project** | • Learned how to use Java in conjunction with Cloud Firestore database and APIs <br> • Working with server side (JSON, REST API) <br> • Integrating third-party libraries (Firebase Notification, Facebook Sdk, Google Maps, ...)  |
 | **Github**              |        [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.tcom/YangTris/Order-App)        |
 
