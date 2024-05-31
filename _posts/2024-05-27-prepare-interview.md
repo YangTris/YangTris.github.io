@@ -6,4 +6,7 @@ categories:
 tags:
   - interview
   - update
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "bookmark"
 ---
