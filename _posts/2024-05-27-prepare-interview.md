@@ -11,30 +11,26 @@ toc_label: "Table of Contents"
 toc_icon: "bookmark"
 ---
 
-### Career Objective
-• Contributing my knowledge to the development of company
+### OOP
+• Tính trừu tượng (abstraction): Tạo ra các lớp trừu tượng mô hình hoá các đối tượng trong thế giới thực. <br/>
+• Tính đóng gói (Encapsulation): Các thực thể của lớp trừu tượng có các giá trị thuộc tính riêng biệt. <br/>
+• Tính kế thừa (Inheritance): Các đối tượng có thể dễ dàng kế thừa và mở rộng lẫn nhau. <br/>
+• Tính đa hình (Polymorphism): Có thể thực hiện một hành động đơn theo nhiều cách thức khác nhau tuỳ theo loại đối tượng cụ thể đang được gọi.
 
-• Improving my knowledge in Information Technology field
+### SOLID
+• Single responsibility priciple <br/>
+Một class chỉ nên giữ 1 trách nhiệm duy nhất 
 
-• Enhancing English communication in the next 1-2 years
+• Open/Closed principle <br/>
+open for extension but closed for modification
 
+• Liskov substitution principe <br/>
+Trong một chương trình, các object của class con có thể thay thế class cha mà không làm thay đổi tính đúng đắn của chương trình
 
-### Coursework
-Courses: Object-Oriented Programming, Data Structures & Algorithms, Probability & Statistics, User Interface Design, MVC (Model-View-Controller) Architecture.
+• Interface segregation principle <br/>
+Thay vì dùng 1 interface lớn, ta nên tách thành nhiều interface nhỏ, với nhiều mục đích cụ thể
 
-### Skills
-Languages: C/C++, C#, Dart, Python, Java, JavaScript
+• Dependency inversion principle
+1. Các module cấp cao không nên phụ thuộc vào các modules cấp thấp. Cả 2 nên phụ thuộc vào abstraction.
+2. Interface (abstraction) không nên phụ thuộc vào chi tiết, mà ngược lại. ( Các class giao tiếp với nhau thông qua interface, không phải thông qua implementation.)
 
-Tools: Git/GitHub, Unix Shell, VS Code, IntelliJ, Figma
-
-Frameworks: React, Flutter, Material Design, Bootstrap,  .Net Framework, ASP .Net Core, Spring boot 
-
-Operating Systems: Linux 
-
-Databases: SQL Server, Firebase
-
-### Soft skills
-Tasks manager: Notion, Microsoft project
-
-### Projects
-[Food Ordering App](https://github.com/YangTris/Java-Food-Ordering-App) 
