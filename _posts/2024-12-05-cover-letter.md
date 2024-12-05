@@ -1,5 +1,5 @@
 ---
-title: "Prepare for an interview!"
+title: "Cover letter"
 date: 2024-12-05
 categories:
   - cover-letter
