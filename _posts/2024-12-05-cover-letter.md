@@ -6,6 +6,7 @@ categories:
 tags:
   - interview
   - cover-letter
+  - update
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "bookmark"
@@ -21,4 +22,5 @@ With my dedication and strong work ethic, I am confident in my ability to delive
 Thank you for considering my application. I look forward to the opportunity to discuss how I can contribute to your team.
 
 Sincerely,
+
 Van Tri
