@@ -42,7 +42,7 @@ Tasks manager: Notion, Jira, Microsoft project
 
 [E-Commerce-Website](https://github.com/YangTris/ECommerceWebsite)
 
-| **Description project**   | <p align="justify">The project is a comprehensive e-commerce application designed for online retail businesses to showcase products, manage customers, and process transactions. Built using C# with ASP.NET Core, the platform provides a secure, scalable, and user-friendly interface for both customers and administrators.</p> |
+| **Description project**   | The project is a comprehensive e-commerce application designed for online retail businesses to showcase products, manage customers, and process transactions. Built using C# with ASP.NET Core, the platform provides a secure, scalable, and user-friendly interface for both customers and administrators. |
 | ------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Technologies used**     | APIs (MongoDB, Dialogflow, VnPay), Entity Framework LINQ, MongoDb, C#, ASP.NET Core, Jira, Git, VS Code |                                                                                                                                                                                                                                                                                            
 | **Team size**             | 3 members |                                                                                                                                                                                                                                                                                                                                      
@@ -54,7 +54,7 @@ Tasks manager: Notion, Jira, Microsoft project
 
 [Food Ordering App](https://github.com/YangTris/Java-Food-Ordering-App) 
 
-|**Description project**| <p align="justify"> Food Ordering App: Your go-to solution for efficient order management and seamless food ordering. With its sleek interface and real-time updates, businesses can effortlessly handle orders and track their progress. </p>|
+|**Description project**| Food Ordering App: Your go-to solution for efficient order management and seamless food ordering. With its sleek interface and real-time updates, businesses can effortlessly handle orders and track their progress.|
 |---------------------|----------------|
 | **Technologies used** | Java, Firebase, Google Maps API, Git, VS Code |
 | **Team size**         |  3 members |
@@ -68,7 +68,7 @@ Tasks manager: Notion, Jira, Microsoft project
 
 [University Admission HCMUE](https://github.com/maivudhsp/DKTS_SDH) 
 
-|**Description project**| <p align="justify"> Ho Chi Minh City University of Education (HCMUE) provides a user-friendly website for student enrollment, developed in collaboration with instructor ThS. Mai Vân Phương Vũ, to streamline the enrollment process. </p> |
+|**Description project**|  Ho Chi Minh City University of Education (HCMUE) provides a user-friendly website for student enrollment, developed in collaboration with instructor ThS. Mai Vân Phương Vũ, to streamline the enrollment process.|
 |---------------------|----------------|
 | **Technologies used** | C#, HTML/CSS, JavaScript, .Net Framework, Git, Visual Studio |
 | **Team size**         |  3 members |
